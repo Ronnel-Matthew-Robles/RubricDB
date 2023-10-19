@@ -1,0 +1,20 @@
+.instructions {
+  white-space: pre-line;
+}
+
+.buttonContainer {
+  max-width: 400px;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2px;
+  flex: 1 1;
+  align-self: center;
+}
+
+.fillSpace {
+  max-width: 900px;
+  width: 100%;
+}

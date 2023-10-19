@@ -1,0 +1,22 @@
+.logo_icon {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.logo_container {
+  max-height: 100%;
+}
+
+@media screen and (min-width: 501px) {
+  .logo_text {
+    font-weight: 800;
+    color: var(--foreground);
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .logo_text {
+    display: none;
+  }
+}

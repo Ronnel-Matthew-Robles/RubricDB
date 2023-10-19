@@ -1,0 +1,15 @@
+.main {
+  max-width: 400px;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px;
+  flex: 1 1;
+  align-self: center;
+}
+
+.deleteCell {
+  vertical-align: middle;
+}
